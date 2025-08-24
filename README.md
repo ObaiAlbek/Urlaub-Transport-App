@@ -1,7 +1,7 @@
 # Urlaub Transport App 🚖
 
 Dies ist ein **eigenständig erstelltes Projekt**, das ich selbständig mit **Figma** konzipiert und umgesetzt habe.  
-Es handelt sich **nicht um ein Uni-Projekt**, sondern um eine persönliche Arbeit, um meine Fähigkeiten in **UI/UX-Design** und **App-Konzeption** weiterzuentwickeln.
+Es handelt sich um eine persönliche Arbeit, um meine Fähigkeiten in **UI/UX-Design** und **App-Konzeption** weiterzuentwickeln.
 
 ## Idee
 Die App soll eine einfache Möglichkeit bieten, während einer Reise verschiedene Transportmittel (Taxi, Bus, Bahn) zu buchen und Fahrten zu verwalten.
