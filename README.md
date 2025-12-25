@@ -25,3 +25,4 @@ Die App soll eine einfache Möglichkeit bieten, während einer Reise verschieden
 ---
 
 ✍️ Erstellt von mir – als persönliches Projekt, um meine Design- und Entwicklungskompetenzen auszubauen.
+
