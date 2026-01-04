@@ -5,7 +5,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Mobile-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Prototype-success?style=for-the-badge)
 
-> Ein High-Fidelity Design-Prototyp für eine Reise- und Transport-App, erstellt im Rahmen des Moduls Software Engineering 2 (SE2).
+> Ein High-Fidelity Design-Prototyp für eine Reise- und Transport-App.
 
 ---
 
